@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "99 Beers"
+date:   2016-09-02
+excerpt: "Web app that helps users keep track and rate their favorite beers bottles and drafts"
+project: true
+tag:
+- beers
+- drafts
+- collection
+- trophy
+- Untappd
+comments: true
+---
+
+![99Beers Homepage](https://github.com/kylietramle/ninety9beers/blob/master/app/assets/images/Screenshots/welcome.png)
