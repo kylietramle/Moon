@@ -8,7 +8,7 @@ comments: false
     
 <center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-<a class="social-btn"><i class="devicon-angularjs-plain"></i></a>
+<p style="font-size:1.2rem;font-weight:300"><i class="devicon-angularjs-plain"></i></p>
 
 ## Features
 * Minimal, you can focus on your content
