@@ -8,14 +8,15 @@ comments: false
     
 <center>
 
-<p style="font-size:1.5rem;font-weight:300"><i class="devicon-ruby-plain"></i></p>
-<p style="font-size:1.7rem;font-weight:300"><i class="devicon-rails-plain"></i></p>
-<p style="font-size:2rem;font-weight:300"><i class="devicon-postgresql-plain"></i></p>
+<span style="font-size:1.5rem;font-weight:300"><i class="devicon-ruby-plain"></i></span>
+<span style="font-size:1.7rem;font-weight:300"><i class="devicon-rails-plain"></i></span>
+<span style="font-size:2rem;font-weight:300"><i class="devicon-postgresql-plain"></i></span>
 <p style="font-size:1.8rem;font-weight:300"><i class="devicon-angularjs-plain"></i></p>
 <p style="font-size:2.2rem;font-weight:300"><i class="devicon-javascript-plain"></i></p>
 <p style="font-size:2.3rem;font-weight:300"><i class="devicon-react-original"></i></p>
 <p style="font-size:2.5rem;font-weight:300"><i class="devicon-html5-plain"></i></p>
 <p style="font-size:2.6rem;font-weight:300"><i class="devicon-bootstrap-plain"></i></p>
+</center>
 
 ## Features
 * Minimal, you can focus on your content
