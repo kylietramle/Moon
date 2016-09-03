@@ -8,9 +8,9 @@ comments: false
     
 <center>
 
-<span style="font-size:1.5rem;font-weight:300"><i class="devicon-ruby-plain"></i></span>
-<span style="font-size:1.7rem;font-weight:300"><i class="devicon-rails-plain"></i></span>
-<span style="font-size:2rem;font-weight:300"><i class="devicon-postgresql-plain"></i></span>
+<i class="devicon-ruby-plain icon-about"></i>
+<i class="devicon-rails-plain icon-about"></i>
+<i class="devicon-postgresql-plain icon-about"></i>
 <p style="font-size:1.8rem;font-weight:300"><i class="devicon-angularjs-plain"></i></p>
 <p style="font-size:2.2rem;font-weight:300"><i class="devicon-javascript-plain"></i></p>
 <p style="font-size:2.3rem;font-weight:300"><i class="devicon-react-original"></i></p>
