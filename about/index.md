@@ -1,14 +1,13 @@
 ---
 layout: page
-title: About the Theme
+title: About Kylie
 tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 comments: false
 ---
-
-I am a web developer with experience in Ruby, Rails, Angular, and React.
     
 <center>
+I am a web developer with experience in Ruby, Rails, Angular, and React.
   <ul>
     <i class="devicon-ruby-plain icon-about"></i>
     <i class="devicon-rails-plain icon-about"></i>
@@ -23,5 +22,7 @@ I am a web developer with experience in Ruby, Rails, Angular, and React.
     <i class="devicon-bootstrap-plain icon-about"></i>
   </ul> 
 </center>
+
+See my [Project Page]() or read my [Blog]()
       
 [Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
