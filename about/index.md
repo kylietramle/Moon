@@ -10,12 +10,12 @@ comments: false
 <i class="devicon-ruby-plain icon-about"></i>
 <i class="devicon-rails-plain icon-about"></i>
 <i class="devicon-angularjs-plain icon-about"></i>
-<i class="devicon-javascript-plain icon-about"></i></p>
-<i class="devicon-react-original icon-about"></i></p>
+<i class="devicon-javascript-plain icon-about"></i>
+<i class="devicon-react-original icon-about"></i>
 <i class="devicon-postgresql-plain icon-about"></i>
-<i class="devicon-html5-plain icon-about"></i></p>
-<i class="devicon-css3-plain icon-about"></i></p>
-<i class="devicon-bootstrap-plain icon-about"></i></p>
+<i class="devicon-html5-plain icon-about"></i>
+<i class="devicon-css3-plain icon-about"></i>
+<i class="devicon-bootstrap-plain icon-about"></i>
 </center>
 
 ## Features
