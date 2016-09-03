@@ -14,10 +14,13 @@
 }
 
 .icon-about {
-  font-size: 3.5rem;
+  font-size: 35px;
   font-weight:300;
   display: inline-block;
   text-align: center;
+  padding: 5px;
+  border: 1px dashed #ddd;
+  box-shadow: 0 0 0 3px #fff, 0 0 0 5px #ddd, 0 0 0 10px #fff, 0 0 2px 10px #eee;
 }
 .social-btn {
 	padding: 10px;
