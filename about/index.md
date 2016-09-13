@@ -26,9 +26,10 @@ See my [Project Page](https://kylietramle.github.io/projects) or read my [Blog](
 
 When I'm not coding away, I love to cook :)
 
+
 <figure>
     <img src="{{ url }}/assets/img/phalau.jpg">
-    <figcaption>Vietnamese Menudo</figcaption>   
+    <figcaption>Vietnamese Menudo</figcaption>
 </figure>
 
 <figure>
