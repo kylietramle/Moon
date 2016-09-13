@@ -12,7 +12,6 @@ I am a web developer with experience in Ruby, Rails, Angular, and React.
     <i class="devicon-ruby-plain icon-about"></i>
     <i class="devicon-rails-plain icon-about"></i>
     <i class="devicon-angularjs-plain icon-about"></i>
-    <i class="devicon-javascript-plain icon-about"></i>
     <i class="devicon-react-original icon-about"></i>
   </ul>
   <ul>
@@ -23,6 +22,7 @@ I am a web developer with experience in Ruby, Rails, Angular, and React.
   </ul> 
 </center>
 
-See my [Project Page]() or read my [Blog]()
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+See my [Project Page](https://kylietramle.github.io/projects) or read my [Blog](https://kylietramle.wordpress.com).
+
+When I'm not coding away, I love to cook :)
+
