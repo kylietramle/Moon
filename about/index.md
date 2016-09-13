@@ -26,3 +26,22 @@ See my [Project Page](https://kylietramle.github.io/projects) or read my [Blog](
 
 When I'm not coding away, I love to cook :)
 
+<figure>
+    <img src="{{ url }}/assets/img/phalau.jpg">
+    <figcaption>Vietnamese Menudo</figcaption>   
+</figure>
+
+<figure>
+  <img src="{{ url }}/assets/img/bolalot.jpg">
+  <figcaption>BBQ Beef in La Lot Leaves</figcaption>
+</figure>
+
+<figure>
+    <img src="{{ url }}/assets/img/canuong.jpg">
+    <figcaption>BBQ Catfish</figcaption>
+</figure>
+
+<figure>
+    <img src="{{ url }}/assets/img/canhbun.jpg">
+    <figcaption>Crab Noodle Soup</figcaption>
+</figure>
