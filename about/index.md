@@ -12,7 +12,6 @@ I am a web developer with experience in Ruby, Rails, Angular, and React.
     <i class="devicon-ruby-plain icon-about"></i>
     <i class="devicon-rails-plain icon-about"></i>
     <i class="devicon-angularjs-plain icon-about"></i>
-    <i class="devicon-react-original icon-about"></i>
   </ul>
   <ul>
     <i class="devicon-postgresql-plain icon-about"></i>
