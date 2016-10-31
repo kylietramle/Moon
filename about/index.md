@@ -7,7 +7,7 @@ comments: false
 ---
     
 <center>
-I am a web developer with experience in Ruby, Rails, Angular, and React.
+I am a web developer with experience in Ruby, Rails, Angular, and Swift.
   <ul>
     <i class="devicon-ruby-plain icon-about"></i>
     <i class="devicon-rails-plain icon-about"></i>
